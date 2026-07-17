@@ -1,0 +1,6 @@
+*.asv
+*.slxc
+*.mex*
+DerivedData/
+.SimulinkProject/
+_out/
